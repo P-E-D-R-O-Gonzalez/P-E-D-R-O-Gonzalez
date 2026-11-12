@@ -2,7 +2,7 @@
   <img src="./assets/header.png" alt="Gonzalez Tech — ASCII wordmark and Pedro Gonzalez wireframe portrait." width="100%" />
 </p>
 
-### Hey, I'm Pedro. ### I'm a computer science student interested in **AI, cybersecurity, and social impact**. 
+### Hey, I'm Pedro. I'm a computer science student interested in **AI, cybersecurity, and social impact**. 
 
 <p align="center">
   <a href="https://entregonzalez.com"><b>Portfolio</b></a>
