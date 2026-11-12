@@ -17,7 +17,7 @@ I'm a computer science student interested in **AI, cybersecurity, and social imp
 
 <div align=center>
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{P-E-D-R-O-Gonzalez}/count.svg" alt="Visitor's Count" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=P-E-D-R-O-Gonzalez&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Pedro's" />  
   **Python** · **JavaScript** · **HTML / CSS** · **C++** · **Java**
 </div>
