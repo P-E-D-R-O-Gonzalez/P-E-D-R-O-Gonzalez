@@ -12,12 +12,14 @@
 
 ### Hey, I'm Pedro.
 
-I'm a computer science student interested in **AI, cybersecurity, and social impact**. My projects explore security fundamentals, useful everyday tools, and playful ways to learn.
+I'm a computer science student interested in **AI, cybersecurity, and social impact**. 
+
+My projects explore security fundamentals, useful everyday tools, and playful ways to learn.
 
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=P-E-D-R-O-Gonzalez&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Pedro's" />  
-  <p>Python · JavaScript · HTML / CSS · C++ · **Java</p>
+  <p>Python · JavaScript · HTML / CSS · C++ · Java</p>
 </div>
 
 
