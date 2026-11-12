@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Pedro Gonzalez — Tech for impact</title>
+  <desc id="desc">Midnight blue banner with mint typography and an abstract orbital circuit. AI, cybersecurity, social impact.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#102c38"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#75f4c3"/><stop offset="1" stop-color="#72baff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7cb6c7" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1280" height="420" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="20" fill="url(#grid)"/>
+  <path d="M48 0H1232" stroke="url(#accent)" stroke-width="4"/>
+  <g fill="none" stroke="#75f4c3">
+    <circle cx="1060" cy="210" r="144" opacity=".13"/>
+    <circle cx="1060" cy="210" r="110" opacity=".22"/>
+    <ellipse cx="1060" cy="210" rx="174" ry="61" transform="rotate(-35 1060 210)" opacity=".45"/>
+    <path d="M956 210h60l27-47 38 94 25-47h57" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+  <circle cx="1183" cy="117" r="7" fill="#75f4c3"/>
+  <circle cx="943" cy="302" r="5" fill="#72baff"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="64" y="72" fill="#75f4c3" font-size="15" font-family="Consolas, monospace" letter-spacing="4">TECH FOR IMPACT</text>
+    <text x="60" y="166" fill="#f1f7fb" font-size="68" font-weight="700" letter-spacing="-2">Pedro Gonzalez<tspan fill="#75f4c3">.</tspan></text>
+    <text x="64" y="222" fill="#b8cbd6" font-size="25">Curiosity in. Useful software out.</text>
+    <g font-size="15" font-family="Consolas, monospace">
+      <rect x="64" y="265" width="64" height="34" rx="17" fill="#75f4c3" fill-opacity=".1" stroke="#75f4c3" stroke-opacity=".35"/>
+      <text x="86" y="287" fill="#9df8d5">AI</text>
+      <rect x="140" y="265" width="170" height="34" rx="17" fill="#75f4c3" fill-opacity=".1" stroke="#75f4c3" stroke-opacity=".35"/>
+      <text x="160" y="287" fill="#9df8d5">CYBERSECURITY</text>
+      <rect x="322" y="265" width="182" height="34" rx="17" fill="#75f4c3" fill-opacity=".1" stroke="#75f4c3" stroke-opacity=".35"/>
+      <text x="342" y="287" fill="#9df8d5">SOCIAL IMPACT</text>
+    </g>
+    <path d="M64 346H1216" stroke="#8eb4c7" stroke-opacity=".18"/>
+    <text x="64" y="382" fill="#8ba9bb" font-size="13" font-family="Consolas, monospace" letter-spacing="2">P-E-D-R-O-GONZALEZ / BUILD • LEARN • ITERATE</text>
+    <text x="1216" y="382" text-anchor="end" fill="#75f4c3" font-size="18" font-family="Consolas, monospace">&lt;/&gt;</text>
+  </g>
+</svg>
